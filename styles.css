@@ -216,7 +216,7 @@ body {
 
 .hero-eyebrow {
   font-family: 'Jost', sans-serif;
-  font-weight: 200;
+  font-weight: 300;
   letter-spacing: 0.35em;
   font-size: 0.75rem;
   color: var(--olive);
@@ -323,7 +323,7 @@ section {
 
 .section-label {
   font-family: 'Jost', sans-serif;
-  font-weight: 200;
+  font-weight: 300;
   letter-spacing: 0.35em;
   font-size: 0.75rem;
   color: var(--olive);
@@ -565,7 +565,7 @@ section {
   opacity: 0.7;
   transition: opacity 0.2s;
   font-family: 'Jost', sans-serif;
-  font-weight: 200;
+  font-weight: 300;
   line-height: 1;
 }
 
@@ -627,7 +627,7 @@ section {
 
 .detail-label {
   font-family: 'Jost', sans-serif;
-  font-weight: 200;
+  font-weight: 300;
   letter-spacing: 0.3em;
   font-size: 0.75rem;
   text-transform: uppercase;
@@ -733,7 +733,7 @@ section {
 
 .countdown-label {
   font-family: 'Jost', sans-serif;
-  font-weight: 200;
+  font-weight: 300;
   letter-spacing: 0.4em;
   font-size: 0.8rem;
   color: var(--olive-light);
@@ -801,7 +801,7 @@ section {
 
 .countdown-unit-label {
   font-family: 'Jost', sans-serif;
-  font-weight: 200;
+  font-weight: 300;
   letter-spacing: 0.25em;
   font-size: 0.75rem;
   text-transform: uppercase;
@@ -845,7 +845,7 @@ footer {
 
 footer p {
   font-family: 'Jost', sans-serif;
-  font-weight: 200;
+  font-weight: 300;
   font-size: 0.78rem;
   letter-spacing: 0.2em;
   color: #9a7880;
@@ -905,7 +905,7 @@ footer p {
   text-align: center;
   padding: 0.6rem 2rem;
   font-family: 'Jost', sans-serif;
-  font-weight: 200;
+  font-weight: 400;
   letter-spacing: 0.3em;
   font-size: 0.72rem;
   font-size: clamp(0.45rem, 2vw, 0.72rem);
