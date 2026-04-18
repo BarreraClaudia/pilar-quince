@@ -13,19 +13,19 @@ project/
 ├── main.js
 ├── README.md
 └── imgs/
-    ├── C44A7090-Edit.jpg
-    ├── C44A7114-Edit.jpg
-    ├── C44A7233-Edit.jpg
-    ├── C44A7381-Edit.jpg
-    ├── C44A7401-Edit.jpg
-    ├── C44A7040-Edit.jpg
-    ├── C44A7472-Edit.jpg
-    ├── C44A7489-Edit.jpg
-    ├── C44A7507-Edit.jpg
-    ├── C44A6942-Edit.jpg
-    ├── C44A6960-Edit.jpg
-    ├── C44A7020-Edit.jpg
-    └── C44A7034-Edit.jpg
+    ├── pilar-1.webp
+    ├── pilar-2.webp
+    ├── pilar-3.webp
+    ├── pilar-4.webp
+    ├── pilar-5.webp
+    ├── pilar-6.webp
+    ├── pilar-7.webp
+    ├── pilar-8.webp
+    ├── pilar-9.webp
+    ├── pilar-10.webp
+    ├── pilar-11.webp
+    ├── pilar-12.webp
+    └── pilar-13.webp
 ```
 
 ---
