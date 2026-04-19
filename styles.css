@@ -619,10 +619,11 @@ section {
   transition-delay: 0.3s;
 }
 
-.detail-icon {
-  font-size: 2.2rem;
+.detail-icon-svg {
+  width: 36px;
+  height: 36px;
   margin-bottom: 1rem;
-  display: block;
+  fill: var(--pink);
 }
 
 .detail-label {
@@ -644,7 +645,7 @@ section {
 }
 
 .detail-sub {
-  margin-top: 0.4rem;
+  margin-top: 0.5rem;
   font-family: 'Jost', sans-serif;
   font-weight: 300;
   font-size: 0.82rem;
