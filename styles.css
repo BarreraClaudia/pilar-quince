@@ -795,6 +795,52 @@ section {
   }
 }
 
+/* ========== RSVP ========== */
+.rsvp-section {
+  background: var(--white);
+  text-align: center;
+}
+
+.rsvp-section .section-title {
+  margin-bottom: 2.5rem;
+}
+
+.rsvp-sub {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-size: 1.15rem;
+  color: #9a7880;
+  margin-bottom: 2.5rem;
+}
+
+.rsvp-btn-wrap {
+  display: flex;
+  justify-content: center;
+}
+
+.rsvp-btn {
+  display: inline-block;
+  padding: 0.85rem 3rem;
+  background: var(--pink);
+  color: white;
+  font-family: 'Jost', sans-serif;
+  font-weight: 300;
+  font-size: 0.82rem;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-radius: 30px;
+  border: 1px solid var(--pink);
+  transition:
+    background 0.3s ease,
+    color 0.3s ease;
+}
+
+.rsvp-btn:hover {
+  background: transparent;
+  color: var(--pink-deep);
+}
+
 /* ========== COUNTDOWN ========== */
 .countdown-section {
   background: linear-gradient(145deg, #3a2a2e 0%, #2a1820 50%, #2c3520 100%);
