@@ -769,7 +769,7 @@ section {
 
 @media (max-width: 700px) {
   .itinerary-list::before {
-    left: 16px;
+    left: 10px;
   }
 
   .itinerary-item {
