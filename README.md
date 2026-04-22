@@ -37,6 +37,7 @@ project/
 - **Message** — love note from parents with decorative quotation marks
 - **Photo Gallery** — mosaic grid of 13 photos with hover effects and lightbox
 - **Event Details** — date, church, and reception info with Google Maps buttons
+- **Itinerary** — timeline of events planned for the evening
 - **Countdown** — live countdown timer to August 1, 2026 at 3:00 PM
 - **Footer** — monogram and closing line
 
